@@ -4,7 +4,7 @@
 
 2. cd into folder
 
-3.python car_human_detection.py
+3. python car_human_detection.py
 
 
 Demo:
